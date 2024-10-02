@@ -1,0 +1,27 @@
+,coupon_exists,discount_ratio,discount_amount,product_category
+0,True,N/A,20,Smartphones
+1,True,15%,15,camping gear
+2,True,10%,10,T-shirts
+3,True,30%,30,holiday dresses
+4,True,30%,30,holiday dresses
+5,True,25%,25,Philips Air Fryers
+6,True,10%,10,Laptops
+7,True,20%,20,skincare
+8,True,15%,15,costumes and makeup
+9,True,5%,50,Refrigerators
+10,True,20%,20,bicycles
+11,False,N/A,0,jeans
+12,True,20%,20,Sofas
+13,True,15%,15,TVs
+14,True,20%,20,perfumes
+15,True,10%,10,Vacuum Cleaners
+16,True,20%,20,textbooks
+17,True,20%,20,toys and games
+18,True,15%,15,Fitbit trackers
+19,True,25%,25,beds
+20,True,10%,0,notebooks and stationery
+21,True,20%,20,makeup
+22,True,10%,10,car accessories
+23,True,0.15,15,Sneakers
+24,False,N/A,0,groceries
+25,False,20%,0,fitness equipment
